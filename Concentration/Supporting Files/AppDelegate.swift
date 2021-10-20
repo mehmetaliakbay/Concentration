@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Concentration
 //
-//  Created by testinium on 17.10.2021.
+//  Created by mehmet ali akbay on 17.10.2021.
 //
 
 import UIKit
